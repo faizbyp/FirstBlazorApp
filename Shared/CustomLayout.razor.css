@@ -1,0 +1,13 @@
+.navcustom {
+    text-align: center;
+    padding: 20px 0 20px 0;
+    background-color: blueviolet;
+    color: antiquewhite;
+}
+
+.footcustom {
+    text-align: center;
+    padding: 10px 0 10px 0;
+    background-color: whitesmoke;
+    color: gray;
+}

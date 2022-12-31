@@ -45,35 +45,35 @@
         }
       },
       {
-        "HashCode": -2035006370,
+        "HashCode": 1405499436,
         "Kind": "Components.Component",
-        "Name": "FirstBlazorApp.Pages.Index",
+        "Name": "FirstBlazorApp.Pages.CustomPage",
         "AssemblyName": "FirstBlazorApp",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Index"
+            "TagName": "CustomPage"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "FirstBlazorApp.Pages.Index"
+          "Common.TypeName": "FirstBlazorApp.Pages.CustomPage"
         }
       },
       {
-        "HashCode": -529307419,
+        "HashCode": -901279223,
         "Kind": "Components.Component",
-        "Name": "FirstBlazorApp.Pages.Index",
+        "Name": "FirstBlazorApp.Pages.CustomPage",
         "AssemblyName": "FirstBlazorApp",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "FirstBlazorApp.Pages.Index"
+            "TagName": "FirstBlazorApp.Pages.CustomPage"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "FirstBlazorApp.Pages.Index",
+          "Common.TypeName": "FirstBlazorApp.Pages.CustomPage",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -147,6 +147,72 @@
         }
       },
       {
+        "HashCode": 217182124,
+        "Kind": "Components.Component",
+        "Name": "FirstBlazorApp.Pages.Todo",
+        "AssemblyName": "FirstBlazorApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Todo"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "FirstBlazorApp.Pages.Todo"
+        }
+      },
+      {
+        "HashCode": 1694893523,
+        "Kind": "Components.Component",
+        "Name": "FirstBlazorApp.Pages.Todo",
+        "AssemblyName": "FirstBlazorApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FirstBlazorApp.Pages.Todo"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "FirstBlazorApp.Pages.Todo",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -2035006370,
+        "Kind": "Components.Component",
+        "Name": "FirstBlazorApp.Pages.Index",
+        "AssemblyName": "FirstBlazorApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "FirstBlazorApp.Pages.Index"
+        }
+      },
+      {
+        "HashCode": -529307419,
+        "Kind": "Components.Component",
+        "Name": "FirstBlazorApp.Pages.Index",
+        "AssemblyName": "FirstBlazorApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FirstBlazorApp.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "FirstBlazorApp.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 1837390864,
         "Kind": "Components.Component",
         "Name": "FirstBlazorApp.Shared.SurveyPrompt",
@@ -196,39 +262,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "FirstBlazorApp.Shared.SurveyPrompt",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 710450966,
-        "Kind": "Components.Component",
-        "Name": "FirstBlazorApp.Shared.NavMenu",
-        "AssemblyName": "FirstBlazorApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "FirstBlazorApp.Shared.NavMenu"
-        }
-      },
-      {
-        "HashCode": -2089955746,
-        "Kind": "Components.Component",
-        "Name": "FirstBlazorApp.Shared.NavMenu",
-        "AssemblyName": "FirstBlazorApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FirstBlazorApp.Shared.NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "FirstBlazorApp.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -325,6 +358,39 @@
           "Runtime.Name": "Components.None",
           "Common.TypeName": "FirstBlazorApp.Shared.MainLayout.Body",
           "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 710450966,
+        "Kind": "Components.Component",
+        "Name": "FirstBlazorApp.Shared.NavMenu",
+        "AssemblyName": "FirstBlazorApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "FirstBlazorApp.Shared.NavMenu"
+        }
+      },
+      {
+        "HashCode": -2089955746,
+        "Kind": "Components.Component",
+        "Name": "FirstBlazorApp.Shared.NavMenu",
+        "AssemblyName": "FirstBlazorApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FirstBlazorApp.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "FirstBlazorApp.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -17023,6 +17089,16 @@
     {
       "FilePath": "c:\\Users\\Faiz\\Documents\\coding\\FirstBlazorApp\\Pages\\Index.razor",
       "TargetPath": "Pages\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\Faiz\\Documents\\coding\\FirstBlazorApp\\Pages\\Todo.razor",
+      "TargetPath": "Pages\\Todo.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\Faiz\\Documents\\coding\\FirstBlazorApp\\Pages\\CustomPage.razor",
+      "TargetPath": "Pages\\CustomPage.razor",
       "FileKind": "component"
     },
     {

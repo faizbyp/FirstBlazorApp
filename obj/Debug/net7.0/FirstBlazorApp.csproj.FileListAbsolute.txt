@@ -30,3 +30,4 @@ C:\Users\Faiz\Documents\coding\FirstBlazorApp\obj\Debug\net7.0\refint\FirstBlazo
 C:\Users\Faiz\Documents\coding\FirstBlazorApp\obj\Debug\net7.0\FirstBlazorApp.pdb
 C:\Users\Faiz\Documents\coding\FirstBlazorApp\obj\Debug\net7.0\FirstBlazorApp.genruntimeconfig.cache
 C:\Users\Faiz\Documents\coding\FirstBlazorApp\obj\Debug\net7.0\ref\FirstBlazorApp.dll
+C:\Users\Faiz\Documents\coding\FirstBlazorApp\obj\Debug\net7.0\scopedcss\Shared\CustomLayout.razor.rz.scp.css

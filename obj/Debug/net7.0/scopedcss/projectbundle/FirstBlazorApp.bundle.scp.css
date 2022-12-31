@@ -1,3 +1,17 @@
+/* _content/FirstBlazorApp/Shared/CustomLayout.razor.rz.scp.css */
+.navcustom[b-zsw69lhtzm] {
+    text-align: center;
+    padding: 20px 0 20px 0;
+    background-color: blueviolet;
+    color: antiquewhite;
+}
+
+.footcustom[b-zsw69lhtzm] {
+    text-align: center;
+    padding: 10px 0 10px 0;
+    background-color: whitesmoke;
+    color: gray;
+}
 /* _content/FirstBlazorApp/Shared/MainLayout.razor.rz.scp.css */
 .page[b-6v4rzgve31] {
     position: relative;
